@@ -43,8 +43,7 @@
 
 3. **Set up your API key:**
 
-    *   Create a file named `.env` in the root directory of the project.
-    *   Add your Gemini API key to the `.env` file in the following format:
+   *    Add your Gemini API key to the `.env` file in the following format:
 
         ```
         GEMINI_API_KEY=your_api_key_here
@@ -58,7 +57,7 @@
     python app.py
     ```
 
-2. **Open your web browser and go to the URL indicated in your terminal.
+2. **Open your web browser and go to the URL indicated in your terminal**.
 
 3. **Enter the following in the Gradio interface:**
     *   Book Title
